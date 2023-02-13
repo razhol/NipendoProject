@@ -1,0 +1,54 @@
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.exe
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.deps.json
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.runtimeconfig.json
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.runtimeconfig.dev.json
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.pdb
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.AssemblyReference.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.AssemblyInfoInputs.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.AssemblyInfo.cs
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.CoreCompileInputs.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.CopyComplete
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\refint\dotnet-console.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.pdb
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.genruntimeconfig.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\ref\dotnet-console.dll
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.exe
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.deps.json
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.runtimeconfig.json
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.runtimeconfig.dev.json
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.dll
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.pdb
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.AssemblyReference.cache
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.AssemblyInfoInputs.cache
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.AssemblyInfo.cs
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.CopyComplete
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.dll
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\refint\dotnet-console.dll
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.pdb
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.genruntimeconfig.cache
+C:\Users\Oleksandr Kosenko\Downloads\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\ref\dotnet-console.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.exe
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.deps.json
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.runtimeconfig.json
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.runtimeconfig.dev.json
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\dotnet-console.pdb
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.AssemblyReference.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.AssemblyInfoInputs.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.AssemblyInfo.cs
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.CoreCompileInputs.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.csproj.CopyComplete
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\refint\dotnet-console.dll
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.pdb
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\dotnet-console.genruntimeconfig.cache
+C:\Users\raz\Desktop\Nipendo.Evaluation-init (2)\Nipendo.Evaluation-init\Nipendo.Evaluation-init\Nipendo.Evaluation-init\obj\Debug\net5.0\ref\dotnet-console.dll
