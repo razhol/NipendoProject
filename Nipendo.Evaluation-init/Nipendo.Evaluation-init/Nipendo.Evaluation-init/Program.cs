@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json.Converters;
 using Newtonsoft.Json;
 using System;
-using System.IO;
 
 
 namespace Nipendo.Evaluation
@@ -12,10 +11,8 @@ namespace Nipendo.Evaluation
         {
             ApplicationNotifier Notifier = new ApplicationNotifier(NotifiersFactory.GetNotifiers());
             Notifier.Notify("Insurance Rating System Starting...");
-            string policyJson = File.ReadAllText("policy.json");
-
-            var policy = JsonConvert.DeserializeObject<Policy>(policyJson,
-                new StringEnumConverter());
+            ReadFileData readFileData = new ReadFileData();
+            var policy = readFileData.readfileData("policy.json");
             RatingEngine engine = RatingEngine.GetInstance();
             engine.SetNotifier(Notifier);
             var Rating = engine.Rate(policy);
